@@ -12,4 +12,4 @@ Algunos de estos elementos son:
   
   Cuando una persona de forma voluntariá libre puede comunicar sus ideas y sentimientos, ésta de siemte mejor después.
  
- 2. Feed-back
+ 1. Feed-back

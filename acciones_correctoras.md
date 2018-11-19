@@ -20,6 +20,6 @@ No cambiamos, a menos que seamos conscientes de los problemas.
 3. Creación de un modelo. 
 Se empieza decidiendo qué se quiera alcanzar, para consguir el objetivo, ello supone definir un ideal y después ver la anera de alcanzarlo.
 Para ello:
-  * Se usan modelos de trabajo que funcionaron el en pasado.
-  * Proponer soluciones al problema, que sean claras y realistas con la intención de tomar parte de la responsabilidad en dicha solución.
+    * Se usan modelos de trabajo que funcionaron el en pasado.
+    * Proponer soluciones al problema, que sean claras y realistas con la intención de tomar parte de la responsabilidad en dicha solución.
   

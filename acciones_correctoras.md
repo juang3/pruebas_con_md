@@ -14,7 +14,7 @@ Algunos de estos elementos son:
  
  2. Feed-back:
   El la [respuesta](http://dle.rae.es/?id=WD6Vhya) u [opinión](http://dle.rae.es/?id=R6gqDaZ) que una persona proporciona ante un estímulo ayudando a:
-  *. Comunicar un estado real sobre algo.
-  *. Permite comparar la propia percepción de la situación con las demás
-  * Permita comparar el ideal con lo real.
-  * Permite reajustar el sistema sobre la marcha
+  * comunicar un estado real sobre algo.
+  * comparar la propia percepción de la situación con las demás
+  * comparar el ideal con lo real.
+  * reajustar el sistema sobre la marcha

@@ -6,7 +6,7 @@ Los elementos correctores dependden de los problemas detectados.
 Éstos pueden aplicarse solos o combinados.
 
 Algunos de estos elementos son:
-i. Catarsis:
+l. Catarsis:
   [RAE](http://dle.rae.es/srv/search?m=30&w=catarsis)
   Efecto liberador que causa la traedia en lo espetadores suscitando la cmprensión, el honory otras emociones.
   

@@ -10,4 +10,6 @@ Algunos de estos elementos son:
   [RAE](http://dle.rae.es/srv/search?m=30&w=catarsis)
   Efecto liberador que causa la traedia en lo espetadores suscitando la cmprensión, el honory otras emociones.
   
-  Cuando una persona de forma voluntariá libre puede comunicar sus ideas y sentimientos, ésta de siemte mejor despues
+  Cuando una persona de forma voluntariá libre puede comunicar sus ideas y sentimientos, ésta de siemte mejor después.
+ 
+ 2. Feed-back
